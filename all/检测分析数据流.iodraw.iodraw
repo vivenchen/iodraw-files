@@ -28,6 +28,9 @@
         <mxCell id="XblxLohXmMVyfwDSMonD-25" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="130" y="80" width="150" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="XblxLohXmMVyfwDSMonD-27" value="ProccessedType" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
