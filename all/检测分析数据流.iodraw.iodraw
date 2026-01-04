@@ -22,8 +22,8 @@
         <mxCell id="XblxLohXmMVyfwDSMonD-22" value="ChipID" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="20" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XblxLohXmMVyfwDSMonD-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="170" width="60" height="30" as="geometry" />
+        <mxCell id="XblxLohXmMVyfwDSMonD-23" value="Pen" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
