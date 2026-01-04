@@ -13,6 +13,9 @@
         <mxCell id="XblxLohXmMVyfwDSMonD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XblxLohXmMVyfwDSMonD-2" target="XblxLohXmMVyfwDSMonD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XblxLohXmMVyfwDSMonD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XblxLohXmMVyfwDSMonD-2" target="XblxLohXmMVyfwDSMonD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XblxLohXmMVyfwDSMonD-2" value="芯片ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="210" width="120" height="60" as="geometry" />
         </mxCell>
@@ -24,6 +27,9 @@
         </mxCell>
         <mxCell id="XblxLohXmMVyfwDSMonD-6" value="图像集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XblxLohXmMVyfwDSMonD-8" value="CSV" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
