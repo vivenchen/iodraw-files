@@ -13,7 +13,7 @@
         <mxCell id="HspydJwacybxOZJ5ICzl-3" value="过滤器表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HspydJwacybxOZJ5ICzl-4" value="过滤器表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HspydJwacybxOZJ5ICzl-4" value="画廊表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
