@@ -25,6 +25,9 @@
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-3" value="&lt;div&gt;功能处理&lt;/div&gt;&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VlhFmRUgPhCf3aXBgVyG-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VlhFmRUgPhCf3aXBgVyG-9" target="VlhFmRUgPhCf3aXBgVyG-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-9" value="数据结构体&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
         </mxCell>
@@ -38,7 +41,15 @@
           <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-17" value="数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VlhFmRUgPhCf3aXBgVyG-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.546;entryY=1.027;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VlhFmRUgPhCf3aXBgVyG-13" target="VlhFmRUgPhCf3aXBgVyG-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="230" />
+              <mxPoint x="505" y="230" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
