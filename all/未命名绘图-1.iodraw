@@ -37,6 +37,9 @@
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-13" value="&lt;div&gt;前后端功能分离&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VlhFmRUgPhCf3aXBgVyG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlhFmRUgPhCf3aXBgVyG-15" target="VlhFmRUgPhCf3aXBgVyG-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-15" value="代码规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -51,6 +54,9 @@
               <mxPoint x="505" y="230" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VlhFmRUgPhCf3aXBgVyG-20" value="避免过于简单命名，如a,b,c,d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
