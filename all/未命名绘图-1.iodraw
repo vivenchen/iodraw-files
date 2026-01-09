@@ -26,19 +26,19 @@
           <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-9" value="数据结构体&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" y="10" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-11" value="&lt;div&gt;数据处理&lt;/div&gt;&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-13" value="&lt;div&gt;前后端功能分离&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-15" value="命名修改，避免过于简化名称如，a,b,c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-17" value="数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
