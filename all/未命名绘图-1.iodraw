@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-1" value="代码规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VlhFmRUgPhCf3aXBgVyG-3" target="VlhFmRUgPhCf3aXBgVyG-9">
           <mxGeometry relative="1" as="geometry" />
@@ -23,22 +23,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-3" value="&lt;div&gt;功能处理&lt;/div&gt;&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-9" value="数据结构体&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-11" value="&lt;div&gt;数据处理&lt;/div&gt;&lt;div&gt;模块化&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="90" width="120" height="60" as="geometry" />
+          <mxGeometry x="440" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-13" value="&lt;div&gt;前后端功能分离&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-15" value="命名修改，避免过于简化名称如，a,b,c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-17" value="数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
