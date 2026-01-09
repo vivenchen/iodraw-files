@@ -50,7 +50,7 @@
           <mxGeometry x="270" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-17" value="数据库设计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="50" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-20" value="避免过于简单命名，如a,b,c,d" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="340" width="120" height="60" as="geometry" />
