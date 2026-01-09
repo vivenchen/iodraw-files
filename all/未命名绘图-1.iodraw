@@ -37,7 +37,7 @@
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-15" value="命名修改，避免过于简化名称如，a,b,c" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VlhFmRUgPhCf3aXBgVyG-17" value="代码规范" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="VlhFmRUgPhCf3aXBgVyG-17" value="功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="360" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
