@@ -109,8 +109,11 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-15" value="Culture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1410" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-16" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1540" width="80" height="60" as="geometry" />
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-16" value="Assay" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1520" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-17" value="Unload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1630" width="80" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
