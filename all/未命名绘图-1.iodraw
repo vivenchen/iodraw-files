@@ -194,7 +194,7 @@
           <mxGeometry x="827" y="585" width="550" height="185" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现阶段的问题&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1、过滤器和画廊中，涉及到CSV参数过滤问题&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="827" y="820" width="550" height="185" as="geometry" />
+          <mxGeometry x="827" y="820" width="550" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
