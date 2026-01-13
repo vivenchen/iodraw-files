@@ -133,8 +133,8 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-26" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="360" y="1410" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-28" value="图像集加载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="360" y="1400" width="60" height="30" as="geometry" />
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-28" value="图像集加载&lt;div&gt;包括图像集和分析结果的匹配&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1460" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="610" y="1227.5" width="20" height="425" as="geometry" />
