@@ -145,7 +145,7 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-31" value="Trap 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="1200" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-32" value="D0000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-32" value="Trap 14000" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="1620" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-33" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
@@ -153,6 +153,9 @@
             <mxPoint x="681.25" y="1520" as="sourcePoint" />
             <mxPoint x="678.75" y="1320" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1300" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
