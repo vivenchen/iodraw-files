@@ -160,8 +160,14 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-35" value="Empty" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="770" y="1100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-36" value="Empty" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="780" y="1160" width="60" height="30" as="geometry" />
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-36" value="Load" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1160" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-37" value="Culture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-38" value="Culture" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1270" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
