@@ -136,6 +136,9 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-28" value="图像集加载" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="400" y="1390" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1300" width="20" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
