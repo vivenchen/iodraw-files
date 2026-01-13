@@ -127,11 +127,14 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-17" value="Unload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1630" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="1200" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-23" value="一般是润湿前的图像，芯片干净的图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1260" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="1380" as="sourcePoint" />
+            <mxPoint x="440" y="1330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
