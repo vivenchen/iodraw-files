@@ -112,8 +112,8 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-12" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="1410" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-13" value="Empty/ReferenceSequences" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1200" width="180" height="60" as="geometry" />
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-13" value="Empty&lt;div&gt;/ReferenceSequences&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1200" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-14" value="Load" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1310" width="80" height="60" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-23" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
