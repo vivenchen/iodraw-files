@@ -191,7 +191,7 @@
           <mxGeometry x="860" y="1330" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-47" value="TrapInfo_Detail" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1030" y="1400" width="80" height="30" as="geometry" />
+          <mxGeometry x="1030" y="1410" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-49" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现阶段的目标&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1、支持抗体发现的相关功能&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2、过滤器：支持抗体发现生成的csv文件参数的过滤&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;3、画廊：支持抗体发现的分数计算和调整&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;4、图表：支持抗体发现&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="827" y="715" width="550" height="185" as="geometry" />
