@@ -197,7 +197,7 @@
           <mxGeometry x="830" y="640" width="550" height="185" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-51" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;现阶段的问题&lt;/h1&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1、过滤器和画廊中，涉及到CSV参数过滤问题&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2、读取图像数据和csv过程较为漫长，需优化&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="827" y="830" width="550" height="120" as="geometry" />
+          <mxGeometry x="827" y="840" width="550" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
