@@ -97,8 +97,8 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-6" value="Graph" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="600" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1200" width="120" height="60" as="geometry" />
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-12" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
