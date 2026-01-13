@@ -128,9 +128,9 @@
           <mxGeometry x="200" y="1630" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="1200" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-23" value="一般是润湿前的图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-23" value="一般是润湿前的图像，芯片干净的图像" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="1260" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
