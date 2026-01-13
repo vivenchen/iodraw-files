@@ -64,6 +64,15 @@
         <mxCell id="VlhFmRUgPhCf3aXBgVyG-24" value="梳理目前接口的前后端职责，进行分离" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="440" y="240" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zypM4TYY-SYyQTv_XGGZ-1" target="zypM4TYY-SYyQTv_XGGZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zypM4TYY-SYyQTv_XGGZ-1" target="zypM4TYY-SYyQTv_XGGZ-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="zypM4TYY-SYyQTv_XGGZ-1" target="zypM4TYY-SYyQTv_XGGZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-1" value="WorkBook" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="585" width="120" height="60" as="geometry" />
         </mxCell>
@@ -71,7 +80,7 @@
           <mxGeometry x="140" y="740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-3" value="Chips/PenLists" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="740" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-4" value="TimeLine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="900" width="120" height="60" as="geometry" />
@@ -80,7 +89,7 @@
           <mxGeometry x="470" y="900" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-6" value="Graph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
