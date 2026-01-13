@@ -100,13 +100,13 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-12" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="1380" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-13" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-13" value="Empty" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1200" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-14" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-14" value="Load" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1310" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-15" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-15" value="Culture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1410" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-16" value="Workflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
