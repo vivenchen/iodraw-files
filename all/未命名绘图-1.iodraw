@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1mwMIOnsVgYCgGYytXgd">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,9 +174,6 @@
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="760" y="1120.5" width="20" height="239" as="geometry" />
-        </mxCell>
-        <mxCell id="zypM4TYY-SYyQTv_XGGZ-42" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-43" value="TrapInfo_Cube_Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="860" y="1260" width="130" height="30" as="geometry" />
