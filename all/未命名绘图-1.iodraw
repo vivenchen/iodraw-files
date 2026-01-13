@@ -127,6 +127,9 @@
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-17" value="Unload" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="1630" width="80" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="zypM4TYY-SYyQTv_XGGZ-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
