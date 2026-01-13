@@ -179,7 +179,7 @@
           <mxGeometry x="760" y="1120.5" width="20" height="239" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-43" value="TrapInfo_Cube_Time" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="860" y="1260" width="130" height="30" as="geometry" />
+          <mxGeometry x="860" y="1260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zypM4TYY-SYyQTv_XGGZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontStyle=1;fontSize=13;" parent="1" source="zypM4TYY-SYyQTv_XGGZ-44" target="zypM4TYY-SYyQTv_XGGZ-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
