@@ -7,8 +7,8 @@
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-1" value="调取1000API，" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Mfm4PZYJgO9kegXiCnrr-2" value="User Prompt:&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280.0000000000002" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Mfm4PZYJgO9kegXiCnrr-2" value="User Prompt:" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="390" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
