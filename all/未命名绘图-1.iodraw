@@ -16,7 +16,7 @@
           <mxGeometry x="170" y="60" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-4" value="故障诊断Agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-7" value="Models" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="350" width="120" height="60" as="geometry" />
