@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-1" value="tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mfm4PZYJgO9kegXiCnrr-3">
           <mxGeometry relative="1" as="geometry">
@@ -32,9 +32,6 @@
         </mxCell>
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-9" value="查找报警日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Mfm4PZYJgO9kegXiCnrr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.028;entryY=0.849;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Mfm4PZYJgO9kegXiCnrr-7" target="Mfm4PZYJgO9kegXiCnrr-4">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
