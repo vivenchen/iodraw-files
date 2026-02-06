@@ -18,8 +18,8 @@
             <mxPoint x="340" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mfm4PZYJgO9kegXiCnrr-3" value="User Prompt：软件无法使用，请分析原因或给出解决方案？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="170" y="60" width="340" height="30" as="geometry" />
+        <mxCell id="Mfm4PZYJgO9kegXiCnrr-3" value="User Prompt：&lt;span style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;培养基未能转移至芯片内的潜在原因有哪些&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="60" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Mfm4PZYJgO9kegXiCnrr-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Mfm4PZYJgO9kegXiCnrr-4" target="Mfm4PZYJgO9kegXiCnrr-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
